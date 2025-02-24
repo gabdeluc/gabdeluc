@@ -9,8 +9,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with contributing to large-scale open-source projects.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:example@example.com)
-- ⚡ Fun fact: I love hiking and exploring nature.
+- 📫 How to reach me: [Email](gabbodlc03@gmail.com)
 
 ## 🛠️ Languages and Tools
 
@@ -24,9 +23,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/example)
-- [Twitter](https://twitter.com/example)
-- [Personal Website](https://www.example.com)
+
 
 ## 🔥 My Projects
 
